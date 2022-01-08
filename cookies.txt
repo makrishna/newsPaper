@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.scorecardresearch.com	TRUE	/	FALSE	1999999999	UID	1VJPGE1JEFY5MKHE3WKLYWg1641663043
+.facebook.com	TRUE	/	FALSE	1999999999	fr	0SPm8AcpEQROKPj05..Bh2cpF...1.0.Bh2cpF.
+
